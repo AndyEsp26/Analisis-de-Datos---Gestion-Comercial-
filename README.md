@@ -13,7 +13,7 @@ Desarrollar un sistema integral de control y análisis de ventas para digitaliza
 *   **Margen de Ganancia Global:** **73%** comprobado matemáticamente tras la estructuración de costos.
 *   **Volumen Operativo:** **428,000 unidades** producidas a través de **1,663 pedidos**.
 *   **Ingresos y Rentabilidad:** Total cobrado de **S/ 932 mil**, generando una ganancia neta de **S/ 676 mil**.
-*   **Concentración de Clientes:** Alta dependencia comercial, donde solo dos clientes (Sr. Hitler con 34.58% y Sra. Carla con 32.39%) representan el **66.97%** del volumen total de unidades.
+*   **Concentración de Clientes:** Alta dependencia comercial, donde solo dos clientes , representan el **66.97%** del volumen total de unidades.
 
 ## 📊 Dashboard y Visualizaciones
 
